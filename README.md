@@ -32,8 +32,6 @@ import petrirl
 
 env = gym.make("petrirl-shu-v0", benchmark="Solax", instance_id="sl00", reward_f="G", commitment_length=5)
 ```
-
-Solax `sl00`-`sl79` correspond to Taillard `ta01`-`ta80`. Use Python 3.9 to 3.11.
 For an interactive interface, see [PetriRL Studio](https://github.com/Sofiene-Uni/PetriRL-Studio).
 
 ## Citation
