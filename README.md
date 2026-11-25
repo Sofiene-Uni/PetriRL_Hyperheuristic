@@ -42,12 +42,6 @@ Developed by Sofiene Lassoued during his PhD at South Westphalia University of A
 If you use this work, please cite:
 
 ```bibtex
-@unpublished{lassoued2026hyperheuristic,
-  title  = {Policy-Based Deep Reinforcement Learning Hyper-heuristics with Temporal Actions Abstraction for Job-Shop Scheduling Problems},
-  author = {Lassoued, Sofiene and Gobachew, Asrat and Lier, Stefan and Schwung, Andreas},
-  note   = {Preprint submitted to Knowledge-Based Systems},
-  year   = {2026}
-}
 
 @article{lassoued2024petrirl,
   title   = {Introducing PetriRL: An innovative framework for JSSP resolution integrating Petri nets and event-based reinforcement learning},
